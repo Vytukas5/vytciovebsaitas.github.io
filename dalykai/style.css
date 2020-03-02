@@ -1,0 +1,27 @@
+	body { 
+		background-color:#696969;
+	}
+	
+	h1 {
+	  color:black;
+	  text-align: center;
+	  }
+	.raudona{
+	color: red;
+	}
+	.geltona{
+	color: yellow;
+	}
+	.zalia{
+	color: #00FF00;
+	}
+	.did{
+	font-size: 18pt;
+	}
+	#vardas{
+	text-align: center;
+	}
+	.labaiDid{
+	font-size: 23pt;
+	}
+	
