@@ -1,0 +1,37 @@
+
+img{
+    height:256px;
+    width:256px;
+
+}
+
+h1{
+font-size: 30pt;
+
+text-align: center;
+}
+
+table, td {
+    border: solid black 2px;
+    text-align: center;
+    height:50%;
+    width:50%;
+    margin: auto;
+}
+
+body {
+    background-color:#bfbfbf;
+
+
+}
+
+td{
+font-size: 20pt;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+

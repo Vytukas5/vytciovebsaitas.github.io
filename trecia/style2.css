@@ -1,0 +1,23 @@
+li{
+    font-size:20pt;
+    line-height:30pt;
+}
+
+body{
+    background-color:#bfbfbf;
+}
+
+p{
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+img{
+    height:256px;
+    width:350px;
+
+    margin: auto;
+}
+h1{
+    font-size: 30pt;
+}
